@@ -1,1 +1,6 @@
-
+onecode
+pandas
+geopandas
+rasterio
+matplotlib
+scikit-learn
